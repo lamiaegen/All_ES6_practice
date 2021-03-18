@@ -1,0 +1,9 @@
+spread operator
+
+
+*jodi chai element copy korte 
+
+jemon array er khetre
+
+arr=[1,2,3,4,5]
+arr2=[...arr]

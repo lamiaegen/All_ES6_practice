@@ -1,0 +1,10 @@
+obj.keys dile
+amra array pabo keys name er
+
+
+obj.values
+
+jodi amra value guli chai tahole obj.values 
+
+*
+obj.entries hocche key ar value er pair

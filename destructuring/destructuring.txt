@@ -1,0 +1,21 @@
+object destructuring
+---------------------------
+dhori object er kono property ami extract 
+kore ante chacchi
+
+dan pashe main Object ta die dibo
+
+left obj = right obj
+
+{jei property ber korbo} = object
+
+const {name}= user
+
+name nam er ekta constant theke user
+obj theke name berie chole ashbe
+
+rules 
+---------
+alias
+
+const {name : title} = user

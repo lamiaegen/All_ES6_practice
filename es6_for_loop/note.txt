@@ -1,0 +1,11 @@
+jodi object iterate korte chai
+tahole for in use korte hobe amader
+
+**for of
+string object shobar moddhe die iterate korte parbe
+
+
+**in array er khetre use korle
+array r index pabo
+
+r off dile value pabo
